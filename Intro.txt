@@ -1,0 +1,11 @@
+Selenium automates browser.Selenium is testing automation tool used for testing web based application
+
+Components of Selenium:
+>Selenium IDE
+>Selenium RC
+>Selenium WebDriver
+>Selenium Grid
+
+Selenium IDE - It is record and run tool comes as Firefox plug-in
+
+Selenium RC aka Selenium 1 - It make of programming langauage to test app and can be used on different browser.
